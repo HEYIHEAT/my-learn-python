@@ -1,2 +1,2 @@
 # my-learn-python
-初期
+记录我学习python的每一步...
