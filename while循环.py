@@ -68,7 +68,7 @@ print(f"坚持到第{i-1}天,表白成功")#i-1:因为是i=100的情况下又一
 print("hello")
 print("world")
 
-print("hello",end="")
+print("hello",end="")#end=""代表不换行 直接接着连续输出
 print("world",end="")
 
 print("hello world")
